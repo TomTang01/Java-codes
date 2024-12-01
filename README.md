@@ -1,2 +1,2 @@
 # Java-codes
-projects done in java
+This is a project from cse 8b, done in Java
